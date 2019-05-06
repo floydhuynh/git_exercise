@@ -1,1 +1,3 @@
 This is a new file in b1
+
+Add this line for new_branch
