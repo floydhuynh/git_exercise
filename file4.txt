@@ -3,3 +3,7 @@ This is a new file in b1
 Add this line for new_branch
 
 Update this file to try switching branch to see if it allows
+
+Practice stashed
+
+Updated in master again
